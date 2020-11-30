@@ -1,3 +1,12 @@
+# THIS IS NOT THE OFICIAL PROJECT
+I just cloned from https://gitlab.com/michenriksen/jdam by Michael Henriksen
+
+In order to have this amazing project in github too.
+
+If the owner doesnt like the idea, please reach me on http://twitter.com/zeroc00I dm plz
+
+---
+
 # jdam - Structure-aware JSON fuzzing
 
 jdam is a [Radamsa] inspired tool for fuzzing arbitrary JSON objects in a structure-aware fashion, which ensures that fuzzing results will always be valid JSON.
